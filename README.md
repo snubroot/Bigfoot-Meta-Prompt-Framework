@@ -1,7 +1,5 @@
 # Universal Bigfoot Character Generator Framework
 
-![Bigfoot in the Forest](https://images.unsplash.com/photo-1543857778-c4a1a569e7bd?w=800&h=400&fit=crop&crop=center)
-
 *A comprehensive JSON framework for generating customized Bigfoot character bibles and production-ready Veo3 scene prompts that work for both Vertex AI API and Google Labs Flow*
 
 ## Overview
